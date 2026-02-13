@@ -11,7 +11,7 @@ The dataset was synthetically generated and contains 250 rows.
 
 Target Variable:
 
-ride_price (Continuous)
+ride_price 
 
 Features Used:
 
